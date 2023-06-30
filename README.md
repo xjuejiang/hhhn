@@ -7,18 +7,20 @@ https://renzheapi.com/sub?target=clash&new_name=true&url=https%3A%2F%2Fninjasub.
 
 ### 订阅者
 
-1、szz
-2、shn
-3、oyzm
-4、ccz
-5、zzk
-6、zr
-7、rj
-8、邓军
-9、邹岳峰
-10、ccz的弟弟
-11、llg的hj
-12、shn‘hj
-13、llg
-14、szz的同事
-15、yzx
+| ID  | name |
+| --- | ---- |
+| 1   |szz|
+| 2   |shn|
+| 3   |oyzm|
+| 4   |ccz|
+| 5   |zzk|
+| 6   |zr|
+| 7   |rj|
+| 8   |邓军|
+| 9   |邹岳峰|
+| 10  |ccz的弟弟|
+| 11  |llg的hj|
+| 12  |shn‘hj|
+| 13  |llg|
+| 14 |szz的同事|
+|15|yzx|
